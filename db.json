@@ -1,5 +1,4 @@
 {
-    "shoes": [
       {
         "Date": "2022-05-27",
         "Product Name": "Fear of God Essentials Tee",
@@ -351,5 +350,4 @@
         "Amount ($)": 545.42,
         "Payment Mode": "Wallet"
       }
-    ]
 }
