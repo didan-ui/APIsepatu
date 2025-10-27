@@ -1,0 +1,31 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "brand": "New Balance",
+            "model": "550 White Green",
+            "size": 42,
+            "condition": "BNIB",
+            "price": 1850000,
+            "imageUrl": "https://example.com/nb550whitegreen.jpg"
+        },
+        {
+            "id": 2,
+            "brand": "Nike",
+            "model": "Air Force 1 White",
+            "size": 43,
+            "condition": "Like New",
+            "price": 1500000,
+            "imageUrl": "https://example.com/af1white.jpg"
+        },
+        {
+            "id": 3,
+            "brand": "Adidas",
+            "model": "Campus 00s Black",
+            "size": 41,
+            "condition": "Used",
+            "price": 900000,
+            "imageUrl": "https://example.com/campus00sblack.jpg"
+        }
+    ]
+}
